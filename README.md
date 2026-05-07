@@ -1,3 +1,5 @@
 # Group-c-repo
 
-# Awesome Github Topic.
+Success figured out how to use git, vs code amd make changes.
+
+## Awesome Github Topic.
